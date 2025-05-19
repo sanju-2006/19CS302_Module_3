@@ -6,7 +6,7 @@ To write a C Program to convert a given decimal value to binary using function w
 ## Algorithm
 1. 
 2. 
-3. 
+3. zdvrfrfcfrfrfgf
 4.  
 5.   
 
